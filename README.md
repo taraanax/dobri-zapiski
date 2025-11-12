@@ -1,33 +1,33 @@
-# 📘 dobri-zapiski
-
-Zdravo! 👋  
-Tukaj so **dobri zapiski** iz 1. letnika — lepo urejeni in pripravljeni v **PDF obliki**.  
-Za vse tiste trenutke, ko se ti ne da prepisovati s table ali loviti profesorjevih formul. 😄  
+# dobri-zapiski
+  
+Tukaj so **dobri zapiski** v **PDF** in **.goodnotes**
+Če ti teče voda v grlo pred kolokviji - this is the place to be 
 
 ---
 
-## 🗂️ Predmeti
+## Trenutno stanje zapiskov
 
 | Predmet | Opis |
 |----------|------|
-| 💻 **Programiranje 1** | Osnove programiranja, algoritmi in logično razmišljanje |
-| ⚙️ **Osnove digitalnih vezij** | Logična vezja, kombinacijska in sekvenčna logika |
-| 🔢 **Diskretne strukture** | Logika, množice, relacije, funkcije |
-| ⚛️ **Fizika** | Mehanika, gibanje, energija in osnovni zakoni narave |
-| 🧮 **Osnove matematične analize** | Limite, odvodi, integrali in triki za preživetje kolokvija |
+| **Programiranje 1** | none existent, niti ni moja vrlina |
+| **Osnove digitalnih vezij** | vaje ja, predavanja not yet |
+| **Diskretne strukture** | tedni: 1., 2. |
+| **Fizika** | procrastinating |
+| **Osnove matematične analize** | raw version zapiskov je gor, dopolnjena verzija je on the way |
 
 ---
 
-## 🧾 Kako uporabljati
-Vse datoteke so v formatu **.pdf** — lahko jih odpreš direktno v brskalniku, shraniš ali natisneš.  
-Če odkriješ napako ali imaš boljše zapiske, kar povej — skupaj jih lahko izboljšamo! ✍️  
+## Kako uporabljati
+Vse datoteke so v formatu **.pdf** — lahko jih odpreš direktno v brskalniku, shraniš ali natisneš.
+Za vse GoodNotes uporabnike so tudi .goodnotes datoteke.
+Če odkriješ napako ali imaš boljše zapiske, kar povej. 
 
 ---
 
-## 💬 Opomba
-Zapiski so **osebni povzetki**, narejeni med vajami in učenjem.  
-Uporabi jih kot pomoč pri učenju — ne kot nadomestilo zanj. 😉
+## Opomba
+Zapiski so **osebni povzetki**, narejeni med vajami in učenjem.
+Nimam 20/20 vision, med prepisovanjem s table pride do napak.
+Im just a girl fr
 
 ---
 
-📚 *Dobri zapiski za dobre ocene!*
