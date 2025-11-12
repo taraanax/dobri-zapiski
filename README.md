@@ -1,11 +1,12 @@
-# dobri-zapiski
+# dobri-zapiski ฅ^•ﻌ•^ฅ
   
 Tukaj so **dobri zapiski** v **PDF** in **.goodnotes**
+
 Če ti teče voda v grlo pred kolokviji - this is the place to be 
 
 ---
 
-## Trenutno stanje zapiskov
+## Trenutno stanje zapiskov ⋆ ˚｡⋆౨ৎ˚
 
 | Predmet | Opis |
 |----------|------|
@@ -17,16 +18,20 @@ Tukaj so **dobri zapiski** v **PDF** in **.goodnotes**
 
 ---
 
-## Kako uporabljati
+## Kako uporabljati ❀⋆.ೃ࿔*:･
 Vse datoteke so v formatu **.pdf** — lahko jih odpreš direktno v brskalniku, shraniš ali natisneš.
+
 Za vse GoodNotes uporabnike so tudi .goodnotes datoteke.
+
 Če odkriješ napako ali imaš boljše zapiske, kar povej. 
 
 ---
 
-## Opomba
+## Opomba ⊹₊⟡⋆
 Zapiski so **osebni povzetki**, narejeni med vajami in učenjem.
+
 Nimam 20/20 vision, med prepisovanjem s table pride do napak.
+
 Im just a girl fr
 
 ---
