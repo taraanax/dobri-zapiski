@@ -14,7 +14,7 @@ Tukaj so **dobri zapiski** v **PDF** in **.goodnotes**
 | **Osnove digitalnih vezij** | vaje ja, predavanja not yet |
 | **Diskretne strukture** | tedni: 1., 2. |
 | **Fizika** | procrastinating |
-| **Osnove matematične analize** | raw version zapiskov je gor, dopolnjena verzija je on the way |
+| **Osnove matematične analize** | tedni: 1., 2., 3., 5., 6., 7. |
 
 ---
 
