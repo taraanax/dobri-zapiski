@@ -1,6 +1,6 @@
 # dobri-zapiski ฅ^•ﻌ•^ฅ
   
-Tukaj so **dobri zapiski** v **PDF** in **.goodnotes**
+Tukaj so **dobri zapiski** v **.pdf** in **.goodnotes**
 
 Če ti teče voda v grlo pred kolokviji - this is the place to be 
 
